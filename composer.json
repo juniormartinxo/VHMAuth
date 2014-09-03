@@ -1,0 +1,15 @@
+{
+  "name" : "MJP/VHMAuth",
+  "description" : "Classe para conexão com o VHM/CPanel",
+  "require" : {},
+  "require-dev" : {},
+  "authors" : [ {
+    "name" : "Aluisio Martins Junior",
+    "email" : "junior@mjpsolucoes.com.br"
+  } ],
+  "autoload" : {
+    "psr-4" : {
+      "MJP\\" : "classes/"
+    }
+  }
+}
